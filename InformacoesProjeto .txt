@@ -1,0 +1,17 @@
+Conta do Administrador(Gerente,Dono..)
+
+email: dede@dede.com
+senha:123456789
+
+Conta do Funcionário comum:
+
+email:bubu@bubu.com
+senha:123456789
+
+
+
+
+
+Observação: O novo usuário do sistema só poderá acessar o painel administrativo após aprovação do administrador.
+
+Observação 2: A validação de CPF não foi implementada para evitar o uso de dados pessoais reais durante o desenvolvimento.
